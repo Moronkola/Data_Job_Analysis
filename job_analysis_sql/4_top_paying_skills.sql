@@ -29,7 +29,7 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here's the breakdown of the top 25 paying skills for data analysts
+Here's a summary of the top 25 highest-paying skills for data analysts:
 - Big Data and AI/ML Skills Dominate: High-paying roles emphasize expertise in big data tools 
     like PySpark and AI/ML platforms like Watson, reflecting the growing demand for advanced 
     data processing and machine learning capabilities.

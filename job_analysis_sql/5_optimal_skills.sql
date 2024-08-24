@@ -99,7 +99,7 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here's the breakdown of the top 25 high-paying, in-demand skills
+Here's a summary of the top 25 high-paying and in-demand skills:
 - Cloud and Big Data Dominance: Skills like Snowflake ($112,947.97), Azure ($111,225.10), 
     AWS ($108,317.30), and BigQuery ($109,653.85) show that cloud platforms and big data 
     technologies are crucial, both in demand and compensation.

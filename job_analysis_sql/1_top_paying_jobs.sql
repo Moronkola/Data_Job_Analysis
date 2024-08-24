@@ -27,7 +27,7 @@ ORDER BY
 LIMIT 10
 
 /*
-Here's the breakdown of the top 10 high-paying data analyst jobs
+Here's a summary of the top 10 highest-paying data analyst positions:
 - Leadership Roles Command Higher Salaries: Positions like Director of Analytics at Meta ($336,500) and 
     Associate Director- Data Insights at AT&T ($255,829.5) demonstrate that leadership and management 
     roles in data analytics significantly boost earning potential.

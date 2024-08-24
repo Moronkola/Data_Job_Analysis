@@ -66,7 +66,7 @@ ORDER BY
 LIMIT 25;
 
 /*
-Here's the breakdown of the top 25 demanded skills for data analysts
+Here's a summary of the top 25 most demanded skills for data analysts:
 - Core Skills in Data Manipulation and Visualization: SQL (7,291 demand count), Excel (4,611), 
     and Python (4,330) are the most demanded skills, underscoring the importance of foundational 
     data manipulation and analysis capabilities. Additionally, data visualization tools like 

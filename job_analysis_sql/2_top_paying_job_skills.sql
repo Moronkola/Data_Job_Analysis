@@ -1,5 +1,5 @@
 /*
-What skills are required for the top-paying data analyst jobs?
+Question: What skills are required for the top-paying data analyst jobs?
 - Use the top 10 highest-paying data analyst jobs from first query
 - Add the specific skills required for these roles
 - Why? It provides a detailed look at which high-paying jobs demand certain skills,
@@ -41,7 +41,7 @@ ORDER BY
     salary_year_avg DESC;
 
 /*
-Here's the breakdown of the skills required for the top 10 high-paying data analyst jobs
+Here’s a summary of the most demanded skills for the top 10 highest-paying data analyst positions:
 - Core Skills in Programming and Data Tools: High-paying data analyst roles consistently require 
     strong skills in SQL, Python, and R, along with proficiency in data visualization tools like 
     Tableau and Power BI.
